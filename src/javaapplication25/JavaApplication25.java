@@ -14,6 +14,7 @@ public class JavaApplication25 {
     private int tuoi;
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("HIHIHIHIIHi");
     }
     
 }
